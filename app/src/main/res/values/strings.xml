@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework01</string>
+    <string name="Complexity">Select Complexity</string>
+    <string name="GenerateButton">Generate Number Thread</string>
+    <string name="Minimum">Minimum:</string>
+    <string name="Maximum">Maximum:</string>
+    <string name="Average">Average:</string>
+</resources>
